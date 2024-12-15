@@ -1,2 +1,1 @@
-# machine-learning-
-davide gerosa class on machine lerning
+probabilty of a galaxy hosting a AGN based on its galactic properties
